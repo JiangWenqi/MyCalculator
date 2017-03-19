@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!--该文件为EditText的背景文件-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#fff"></solid>
+    <stroke
+        android:width="1dp"
+        android:color="#374863"></stroke>
+</shape>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><!--该文件为CE按钮，清空的背景选择器，设置按下效果 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:radius="5dp" />
+            <solid android:color="#282E5C"></solid>
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape>
+            <corners android:radius="5dp" />
+            <solid android:color="#282E5C"></solid>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <corners android:radius="5dp" />
+            <solid android:color="#004986"></solid>
+        </shape>
+    </item>
+</selector>
+
